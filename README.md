@@ -39,10 +39,16 @@ This personal portfolio website is built using HTML, CSS, and PHP. It features m
 
 To use or modify this personal portfolio project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/portfolio-two.git`
-2. Navigate to the project directory: `cd portfolio-two`
-3. Open the files in your preferred code editor and make the necessary changes to personalize the content, styling, and structure.
-4. If using PHP, set up a local development environment with a PHP server to test the dynamic functionality.
+1. Clone the repository:
+
+ `git clone https://github.com/your-username/portfolio-two.git`
+ 
+4. Navigate to the project directory:
+
+  `cd portfolio-two`
+  
+7. Open the files in your preferred code editor and make the necessary changes to personalize the content, styling, and structure.
+8. If using PHP, set up a local development environment with a PHP server to test the dynamic functionality.
 
 Feel free to customize the design, layout, and content of the portfolio site to reflect your own personal branding and style.
 
