@@ -1,5 +1,7 @@
 # Personal Portfolio 👩🏾‍💻
 
+<img width="1727" alt="image" src="https://github.com/rachelboursia/portfolio-two/assets/91563448/07fa8049-1688-4f8d-afa6-4fb485bf0b2f">
+
 Welcome to my personal portfolio! This project showcases my skills and serves as an online representation of my professional work, experience, and projects.
 
 ## Table of Contents 📚
